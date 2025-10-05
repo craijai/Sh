@@ -1,0 +1,22 @@
+{
+	"name": "Cray style",
+	"colors": {
+		"main": "#4984B8",
+		"side": "#FFEA00",
+		"text": "#393939",
+		"border-focus": "#6dccea",
+		"text-focus": "#0000ff",
+		"focus-background": "#BA8E23",
+		"box-outline": "#000000",
+		"header-border": "#808080",
+		"button-outline": "#a9a9a9",
+		"ok": "#304FFF",
+		"ok-text": "#00ffee",
+		"online-text": "#16BD15"
+	},
+	"images": {
+		"tick": "light",
+		"yt": "light",
+		"friends": "light"
+	}
+}
